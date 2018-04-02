@@ -14,3 +14,8 @@ HOW TO INSTALL
 - Copy y replace content files of theme in C:\Program Files (x86)\Arduino\lib\theme
 
 - Copy y replace content files of Preferences in C:\Users\user\AppData\Local\Arduino15
+
+
+#Credits
+
+-Technobly https://github.com/technobly/MonokaiArduinoTheme
