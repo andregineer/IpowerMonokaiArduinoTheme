@@ -5,7 +5,7 @@ Arduino IDE Theme Based in Monokai Theme Sublime Text.
 
 HOW TO INSTALL
 
-- Install Hack Font
+- Install Hack Font: https://sourcefoundry.org/hack/
 
 - Copy y replace content files of Logo in C:\Program Files (x86)\Arduino\lib
 
