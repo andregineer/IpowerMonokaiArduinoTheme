@@ -1,7 +1,9 @@
 ![screenshot](https://raw.githubusercontent.com/andregineer/Ipower-ArduinoIDE/master/Capture.png)
 
-# Ipower-ArduinoIDE
+# Ipower Monokai Arduino IDE Theme
 Arduino IDE Theme Based in Monokai Theme Sublime Text.
+
+For Arduino IDE 1.8 or later.
 
 HOW TO INSTALL
 
