@@ -1,4 +1,4 @@
-![screenshot](https://drive.google.com/file/d/1ZRAFUhvkkIbCOvbLWsZEA-7zD0DFu__U/view?usp=sharing)
+![screenshot](https://raw.githubusercontent.com/andregineer/Ipower-ArduinoIDE/master/Capture.png)
 
 # Ipower-ArduinoIDE
 Arduino IDE Theme Based in Monokai Theme Sublime Text.
